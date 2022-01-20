@@ -1,0 +1,54 @@
+Perbedaan tools ticketing dari Trello vs Jira vs Youtrack
+ALUR PENGGUNAAN TOOLS :
+
+TRELLO : 1. Membuat proyek tim pertama
+         2. Membuat boards
+         3. Menentukan kebutuhan list
+         4. Menambah card
+
+JIRA : 1. Invite team
+       2. Memilih template
+       3. Buat project
+       4. Menambah masalah
+       5. Menyesuaikan jenis masalah
+
+YOUTRACK : 1. Menggunakan papan angile
+           2. Perencanaan
+           3. Membuat basis pengetahuan
+           4. Pantau kemajuan produk
+
+KELEBIHAN DARI MASING-MASING TOOLS :
+
+TRELLO : 1. Mempunyai kemudahan dalam menambah dan mengurangi jumlah anggota tim dalam suatu proyek.
+         2. Memiliki desain yang responsif dan mendukung tampilan yang mobile friendly.
+         3. Mempunyai sistem notifikasi yang baik untuk mempermudah dalam proses komunikasi antar tiap divisi.
+
+JIRA : 1. Memiliki banyak integrasi dan plugin
+       2. Mendukung alur kerja yang berfokus pada versi
+       3. Alat pelaporan yang sangat baik untuk meningkatkan efisiensi
+
+YOUTRACK : 1. Memiliki editor gambar bawaan
+           2. Banyak pilihan migrasi
+           3. Dapat diintegrasikan dengan Zendesk
+           4. Memiliki aplikasi seluler untuk perangkat ios dan android
+
+KELEMAHAN DARI MASING-MASING TOOLS :
+
+TRELLO : 1. Hanya dapat diakses secara online dengan jaringan yang stabil
+         2. Ketika tugas semakin banyak, maka proses pengaturan tugas akan sulit dilakukan
+         3. Tidak dapat melakukan perubahan dalam fitur komentar yang tersedia
+
+JIRA : 1. Tidak ada akses klien gratis
+       2. Setiap update sering menimbulkan kebingungan, karena mereka mengubah GUI secara signifikan.
+
+YOUTRACK : 1. Pembuatan laporan yang rumit
+           2. Alat yang relatif bari dibandingkan dengan jira
+
+Jelaskan kesimpulannya, mana yang diadopsi oleh ticketing Refactory?
+
+    kesimpulannya adalah trello, jira dan youtrak merupakan alat untuk manajemen project, yang 
+memiliki kelebihan dan kekurangna masing masing serta tools yang berbeda.
+
+    Dari ketiga tools yang diapdosi oleh ticketing Refactory adalah jira  karena mempunyai manajement 
+yang bagus, dan juga sistem pelaporan masalah yang lengkap dengan beberapa fasilitas manajemen 
+proyek, banyak plug-in, banyak penyesuaian, dll.
